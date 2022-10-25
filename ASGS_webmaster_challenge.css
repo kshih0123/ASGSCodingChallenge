@@ -1,0 +1,302 @@
+body {
+	width: 100%;
+}
+p1 {
+	position: absolute;
+	width: 200px;
+	height: 22px;
+	left: 73px;
+	top: 59px;
+
+	font-family: 'Graphik';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 160.6%;
+
+	letter-spacing: -0.01em;
+	text-transform: uppercase;
+
+	color: #28282B;
+}
+p2 {
+	position: absolute;
+	width: 43px;
+	height: 22px;
+	left: 1001px;
+	top: 59px;
+
+	font-family: 'Graphik';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 160.6%;
+
+	letter-spacing: -0.01em;
+	text-transform: uppercase;
+
+	color: #28282B;
+}
+p3 {
+	position: absolute;
+	width: 100px;
+	height: 22px;
+	left: 1096px;
+	top: 59px;
+
+	font-family: 'Graphik';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 160.6%;
+
+	letter-spacing: -0.01em;
+	text-transform: uppercase;
+
+	color: #28282B;
+}	
+p4 {
+	position: absolute;
+	width: 67px;
+	height: 22px;
+	left: 1198px;
+	top: 59px;
+
+	font-family: 'Graphik';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 160.6%;
+
+	letter-spacing: -0.01em;
+	text-transform: uppercase;
+
+	color: #28282B;
+}
+p5 {
+	position: absolute;
+	width: 43px;
+	height: 22px;
+	left: 1324px;
+	top: 59px;
+
+	font-family: 'Graphik';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 160.6%;
+
+	letter-spacing: -0.01em;
+	text-transform: uppercase;
+
+	color: #28282B;
+}
+img1 {
+	position: absolute;
+	width: 1294px;
+	height: 682px;
+	left: 73px;
+	top: 136px;
+}
+h1 {
+	position: absolute;
+	width: 1208px;
+	height: 92px;
+	left: 116px;
+	top: 300px;
+
+	font-family: Brush Script MT, cursive;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 150px;
+	line-height: 128.4%;
+
+	text-align: center;
+
+	color: #FFFFFF;
+}
+h2 {
+	position: absolute;
+	width: 851px;
+	height: 149px;
+	left: 282px;
+	top: 900px;
+
+	font-family: Lucida Handwriting, cursive;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 36px;
+	line-height: 128.4%;
+
+	text-align: center;
+
+	color: #272729;
+}
+h3 {
+	position: absolute;
+	width: 911px;
+	height: 156px;
+	left: 252px;
+	top: 1158px;
+
+	font-family: MV Boli, cursive;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 160.6%;
+
+	text-align: center;
+	letter-spacing: -0.01em;
+
+	color: #28282B;
+}
+img2 {
+	position: absolute;
+	width: 296px;
+	height: 447px;
+	left: 242px;
+	top: 1403px;
+}
+img3 {
+	position: absolute;
+	width: 296px;
+	height: 447px;
+	left: 572px;
+	top: 1478px;
+}
+img4 {
+	position: absolute;
+	width: 296px;
+	height: 447px;
+	left: 903px;
+	top: 1543px;
+}
+h4 {
+	position: absolute;
+	width: 350px;
+	height: 31px;
+	left: 241px;
+	top: 2120px;
+
+	font-family: Segoe Script;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 128.4%;
+
+	color: #272729;
+
+}
+p6 {
+	position: absolute;
+	width: 453px;
+	height: 176px;
+	left: 241px;
+	top: 2209px;
+
+	font-family: Segoe Script;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 160.6%;
+
+	letter-spacing: -0.01em;
+
+	color: #28282B;
+
+}
+h5 {
+	position: absolute;
+	width: 350px;
+	height: 31px;
+	left: 745px;
+	top: 2120px;
+	
+	font-family: Segoe Script;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 128.4%;
+	color: #272729;
+}
+p7 {
+	position: absolute;
+	width: 453px;
+	height: 131px;
+	left: 745px;
+	top: 2209px;
+
+	font-family: Segoe Script;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 160.6%;
+
+	letter-spacing: -0.01em;
+
+	color: #28282B;
+
+}
+h6 {
+	position: absolute;
+	width: 350px;
+	height: 31px;
+	left: 241px;
+	top: 2400px;
+	
+	font-family: Segoe Script;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 128.4%;
+	color: #272729;
+}
+p8 {
+	position: absolute;
+	width: 453px;
+	height: 161px;
+	left: 241px;
+	top: 2504px;
+
+	font-family: Segoe Script;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 160.6%;
+
+	letter-spacing: -0.01em;
+
+	color: #28282B;
+
+}
+h7 {
+	position: absolute;
+	width: 350px;
+	height: 31px;
+	left: 745px;
+	top: 2451px;
+	
+	font-family: Segoe Script;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 128.4%;
+	color: #272729;
+}
+p9 {
+	position: absolute;
+	width: 453px;
+	height: 161px;
+	left: 745px;
+	top: 2504px;
+
+	font-family: Segoe Script;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 160.6%;
+
+	letter-spacing: -0.01em;
+
+	color: #28282B;
+
